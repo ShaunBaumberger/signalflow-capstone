@@ -1,0 +1,6 @@
+# Publish only the current self-contained prototype and its project notes.
+/*
+!/.gitignore
+!/.nojekyll
+!/README.md
+!/index.html
